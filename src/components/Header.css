@@ -1,0 +1,18 @@
+#statusbtn{
+    margin-left: 47rem;
+}
+@media (max-width:600px){
+    #statusbtn{
+        margin-left:15rem;
+        position: relative;
+    } 
+}
+#spn1{
+    
+width: 76px;
+height: 6px;
+
+
+
+background: #C0C3C9;
+}
